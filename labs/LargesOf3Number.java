@@ -1,5 +1,3 @@
-package LAB;
-
 //Find the Largest Number Write a program to find the largest of three numbers.
 import java.util.Scanner;
 
