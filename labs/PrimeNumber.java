@@ -1,5 +1,3 @@
-package LAB;
-
 //Write a program to check whether a given number is a prime number.
 import java.util.Scanner;
 
