@@ -1,5 +1,3 @@
-package LAB;
-
 import java.util.Scanner;
 
 //Write a program to check if a given string or number is a palindrome.
