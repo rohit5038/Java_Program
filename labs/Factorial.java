@@ -1,5 +1,3 @@
-package LAB;
-
 // Write a program to calculate the factorial of a given number.
 import java.util.Scanner;
 
