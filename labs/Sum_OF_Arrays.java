@@ -1,5 +1,7 @@
 package LAB;
 
+//Write a program to find the sum of all elements in an array.
+
 public class Sum_OF_Arrays {
     static int[] arr = { 12, 3, 4, 15, 7, 12, 8 };
 
