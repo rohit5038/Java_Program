@@ -1,5 +1,7 @@
 package LAB;
 
+//Write a program to find the second largest number in an array.
+
 public class Second_Largest_Array {
     static int printSecondLargest(int[] numbers, int len) {
         int temp;
