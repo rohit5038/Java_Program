@@ -1,5 +1,7 @@
 package LAB;
 
+//Write a program to find the sum of all even and odd numbers in a given range.
+
 import java.util.Scanner;
 
 public class SumOfEvenOdd {
