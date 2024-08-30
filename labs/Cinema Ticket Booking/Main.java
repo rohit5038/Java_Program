@@ -1,5 +1,20 @@
 package OOPS;
 
+// You need to design a ticket booking system for a cinema that manages movies, showtimes, seats, and bookings. The system should allow users to:
+// Browse movies and showtimes.
+// Book seats for a particular showtime.
+// View and cancel bookings.
+// Requirements:
+// Movie: Each movie has a title, genre, and duration.
+// Showtime: Each showtime has a movie, a start time, and a list of available seats.
+// Seat: Each seat can be booked or available.
+// Booking: Each booking is associated with a user, a showtime, and specific seats.
+// OOP Concepts to Use:
+// Classes and Objects: Create classes for Movie, Showtime, Seat, and Booking.
+// Encapsulation: Use private fields and public methods.
+// Inheritance: Create a base class for common functionality if applicable (e.g., a base class for different types of seats).
+// Polymorphism: Implement methods that can be overridden in subclasses if necessary.
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
