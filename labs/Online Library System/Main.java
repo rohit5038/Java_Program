@@ -1,5 +1,16 @@
 package abc;
 
+// You’re designing an online library system that manages books, users, and transactions. The system should allow users to borrow and return books, and keep track of the books’ availability and users’ borrowing history.
+// Requirements:
+// Book: Each book has a title, author, ISBN, and availability status.
+// User: Each user has a name, user ID, and a list of borrowed books.
+// Library: The library contains a collection of books and manages borrowing and returning of books.
+// OOP Concepts to Use:
+// Classes and Objects: Create classes to represent Book, User, and Library.
+// Encapsulation: Use private fields and public methods to interact with these fields.
+// Inheritance: If applicable, use inheritance to extend classes (e.g., if you have different types of users like regular members and premium members).
+// Polymorphism: Implement methods that can be overridden or used in different contexts.
+
 import java.util.Scanner;
 
 public class Main {
